@@ -1,4 +1,4 @@
-# Projeto com README
+# Projeto Mini-Portifolio
 Um projeto de teste com um arquivo README 🚀
 
 [<img src="./tela inicial.gif" alt="gif da tela inicial do projeto mini portifolio">](https://michelcard.github.io/miniportif-lio/)
